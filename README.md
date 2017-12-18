@@ -1,8 +1,6 @@
 
 # Data Analyst Nanodegree
 
-***
-
 ![alt text](dand-certificate.png)
 
 ### About
